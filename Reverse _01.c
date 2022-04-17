@@ -17,7 +17,7 @@ void main(void)
      int x;
 	  clrscr();
 	  printf("======= SAMAVi =========");
-	  printf("\nlotfan yek add 5 raghami ra vared konid==>:");
+	  printf("\nPlease enter a five-digit number==>:");
 	  scanf("%d",&x);
 	  while (x%10==0)
 	  x=x/10;
